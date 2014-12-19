@@ -8,7 +8,7 @@
 
 * Andrew Overby:
 * Austin Wood:
-* Charles Valentino Espinoza:
+* Charles Valentino Espinoza: https://gist.github.com/xvalentino/4a2529c7fad58d695786
 * DJ Greenfield:
 * David E Maurer:
 * Edward McCarthy:
